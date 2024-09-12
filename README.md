@@ -1,5 +1,8 @@
+# Références des projets
+## - Aftas Front End: [https://github.com/mouad5-bot/aftas-frontend](https://github.com/mouad5-bot/aftas-frontend)
+## - Aftas Back End: [https://github.com/mouad5-bot/aftas](https://github.com/mouad5-bot/aftas)
+  
 # AFTAS Project Docker Integration Presentation
-
 ## Overview
 In this phase of the AFTAS project, we successfully integrated Docker to streamline the deployment process and enhance the overall execution of the application. The integration focused on combining the Spring Boot backend and Angular frontend into a single Docker container, providing a simple and cohesive deployment solution.
 
